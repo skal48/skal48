@@ -1,5 +1,6 @@
-### Hi there 👋
 
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&section=header&height=200&text=sumin`s&ensp;Github&animation=twinkling&fontColor=ffffff)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skal48&theme=holi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skal48)](https://solved.ac/skal48/)    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skal48&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
